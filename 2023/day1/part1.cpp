@@ -10,7 +10,6 @@ int main()
   string num_str;
   string two_digit_num_str;
   int global_sum = 0;
-  // END: ed8c6549bwf9
 
   if (file.is_open())
   {
